@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\estoque.bhe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\estoque.bhe\\.nuget\\packages"
+    ]
+  }
+}
